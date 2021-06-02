@@ -1,0 +1,18 @@
+Created by testinium on 6/2/2021
+
+This is a concept file with following syntax for each concept.
+# Fly Page
+*Id li "com.turkishairlines.mobile:id/frDashboard_tvOneWay" elemente tikla
+*Id li "com.turkishairlines.mobile:id/frDashboard_tvFromCode" elemente tikla
+*Idli "com.turkishairlines.mobile:id/frAirportSelection_etSearch" elementi bul ve "saw" degeri yaz
+*Xpath li "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]/android.widget.TextView[2]" elemente tikla
+*Id li "com.turkishairlines.mobile:id/frDashboard_tvToCode" elemente tikla
+*Idli "com.turkishairlines.mobile:id/frAirportSelection_etSearch" elementi bul ve "esb" degeri yaz
+*Xpath li "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]/android.widget.TextView[2]" elemente tikla
+*Id li "com.turkishairlines.mobile:id/frDashboard_rlDeparture" elemente tikla
+*"2" Saniye Bekle
+*Xpath li "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.LinearLayout[1]/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.FrameLayout[7]/android.widget.TextView" elemente tikla
+*Id li "com.turkishairlines.mobile:id/frDashboard_btnDone" elemente tikla
+*"2" Saniye Bekle
+*Xpath li "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.LinearLayout[1]/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.FrameLayout[7]/android.widget.TextView" elemente tikla
+*Id li "com.turkishairlines.mobile:id/frDashboard_btnSearch" elemente tikla

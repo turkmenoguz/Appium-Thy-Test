@@ -1,0 +1,11 @@
+Created by testinium on 6/2/2021
+
+This is a concept file with following syntax for each concept.
+# Home Page
+*"2" Saniye Bekle
+*Id li "com.turkishairlines.mobile:id/frPrivacy_btnAccept" elemente tikla
+*"2" Saniye Bekle
+*Bilet al butonuna tıkla "com.turkishairlines.mobile:id/acMain_btnBooking"
+*"2" Saniye Bekle
+
+
